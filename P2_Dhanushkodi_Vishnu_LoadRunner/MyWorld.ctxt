@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=numWalls\ numRows\ X\ Y
+comment1.target=void\ createRows(int,\ int,\ int,\ int)
+comment2.params=numLadders\ X\ Y
+comment2.target=void\ createLadderStack(int,\ int,\ int)
+comment3.params=
+comment3.target=MyWorld()
+numComments=4
